@@ -11,4 +11,5 @@ The `test.csv` dataset contains similar information but does not disclose the â€
 <br>
 As the target variable here is "binary" variable, it is a classification type problem and we have used Logistic Regression in order to solve this problem.
 <br>
+<br>
 With Logistic Regression we could acheieve prediction accuracy of 80%.
