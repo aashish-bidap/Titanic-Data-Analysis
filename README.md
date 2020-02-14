@@ -10,8 +10,8 @@ Two similar datasets that include passenger information like name, age, gender, 
 <p>Train.csv includes the the details of a subset of the passengers on board (891 to be exact) and importantly, will reveal whether they survived or not, also known as the “ground truth”.
 <br>The `test.csv` dataset contains similar information but does not disclose the “ground truth” for each passenger.
 
-<br><br>
-As the target variable here is "binary" variable, it is a classification type problem and we have used Logistic Regression in order to solve this problem.
+<br><br><b>
+Target variable(Survived) here is "binary" variable, it is a classification type problem and we have used Logistic Regression in order to solve this problem.
 <br>
 <br>
 With Logistic Regression we could acheieve prediction accuracy of 80%.
